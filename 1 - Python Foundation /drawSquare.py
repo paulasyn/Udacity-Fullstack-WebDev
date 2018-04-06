@@ -7,7 +7,7 @@ def draw():
     brad.shapesize(outline=10)
     brad.color("yellow")
     brad.speed(15)
-    for i in range(1,30):
+    for i in range(1,37):
         draw_square(20, brad)
         brad.right(10)
 
